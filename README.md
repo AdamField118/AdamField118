@@ -7,8 +7,8 @@ My name is Adam Field, and I'm an undergraduate at WPI studying physics. I aspir
 I really enjoy physics and coding! I do a lot of projects to try and unite the two.  
 Some of my projects are:
 
-- My [personal website](www.adamfield.org) where I house a blog and a dynamic resume coded in Three.js.
-- A [physics simulations website](sims.adamfield.org) where I code physics simulations using webGL.
+- My [personal website](https://www.adamfield.org) where I house a blog and a dynamic resume coded in Three.js.
+- A [physics simulations website](https://portfolio.adamfield.org) where I code physics simulations using webGL.
 - [Modeling a Chaotic Pendulum](https://github.com/AdamField118/Chaotic_Pendulum) where I made a simulation of a double pendulum, software to track LEDs on a real double pundulum, then compared the two results.
 
 ## Personal
