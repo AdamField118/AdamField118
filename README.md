@@ -6,9 +6,9 @@ My name is Adam Field, and I'm an undergraduate at WPI studying physics. I aspir
 
 I focus on computational physics in my research, with a heavy emphasis on computational cosmology.
 
-I'm actively writing a research paper with my advisor [Sayan Saha](https://cos.northeastern.edu/people/sayan-saha/) on [ShearNet](https://github.com/s-Sayan/ShearNet), as neural network based galaxy shear estimator written in JAX/Flax. This project has taught me a lot about not only deep learning techniques in physics, but also statistics and quantifying estimator bias.
+- I'm actively writing a research paper with my advisor [Sayan Saha](https://cos.northeastern.edu/people/sayan-saha/) on [ShearNet](https://github.com/s-Sayan/ShearNet), a neural network based galaxy shear estimator written in JAX/Flax. This project has taught me a lot about not only deep learning techniques in physics, but also statistics and quantifying estimator bias.
 
-Previously I also worked with a researcher here at our HPC cluster, [Dr. Jackson Henry](https://www.linkedin.com/in/jackson-henry-b1a49410a/), on computational thermodynamics. We were focusing on repoducing results from the paper here [https://arxiv.org/pdf/2206.13160](https://arxiv.org/pdf/2206.13160) and extending their work to zero-sum games. We were trying to understand alternative characteristics of entropy on the one-dimensional network topologies. My main contributions was gpu-accelerated code for real time system evolution.
+- Previously I also worked with a researcher here at our HPC cluster, [Dr. Jackson Henry](https://www.linkedin.com/in/jackson-henry-b1a49410a/), on computational thermodynamics. We were focusing on repoducing results from the paper here [https://arxiv.org/pdf/2206.13160](https://arxiv.org/pdf/2206.13160) and extending their work to zero-sum games. We were trying to understand alternative characteristics of entropy on the one-dimensional network topologies. My main contributions was gpu-accelerated code for real time system evolution.
 
 ## Projects
 
